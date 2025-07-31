@@ -31,4 +31,13 @@ first the contactpage will apply for Address Email Phone.
 ### Service page
 first the servicepage will apply for student, activity, and evant.
 
+### Drawbacks
+---
+- On update page of homepage, aboutpage, contactpage, and servicepage you must have to update password
+- Anyone can become Member.
 
+## How to run this project
+- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Open Terminal and Execute Following Commands :
+```python -m pip install -r requirements.txt
+```
